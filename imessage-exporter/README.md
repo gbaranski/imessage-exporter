@@ -40,7 +40,7 @@ The [releases page](https://github.com/ReagentX/imessage-exporter/releases) prov
 -d, --diagnostics
         Print diagnostic information and exit
         
--f, --format <txt, html>
+-f, --format <txt, html, transcript>
         Specify a single file format to export messages into
         
 -c, --copy-method <compatible, efficient, disabled>
